@@ -20,7 +20,7 @@
 #### Tests
 
 - Unit Tests: `npm run test`
-<!-- ![tests](./assets/npm1.PNG) -->
+![tests](./assets/tests.PNG)
 - Lint Tests: `npm run lint`
 
 
