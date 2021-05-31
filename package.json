@@ -4,8 +4,7 @@
   "description": "401 lab 11 Event Driven Applications",
   "main": "index.js",
   "scripts": {
-    "start": "node caps.js",
-    "test": "jest --verbose --coverage"
+    "test": "jest --coverage --verbose"
   },
   "repository": {
     "type": "git",
